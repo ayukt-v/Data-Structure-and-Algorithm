@@ -13,20 +13,20 @@ int main() {
 // } -- It is boiler plate code.  
 
 
-//     cout << "Vaishnavi" <<endl;
+//     cout << "Ayukt" <<endl;
 //     // for next line
-//     cout << "Vaishnavi" <<"\n";
+//     cout << "Aman" <<"\n";
 //     // for next line but it is fast
 
-//     cout << "Vaishnavi\n Ayukt\n Ayukt\n";
+//     cout << "Divyansh\n Ayukt\n Ayukt\n";
 //     // for next line which is easier 
 //   cout << "Vaishnavi" << "Ayukt" << endl;
 
-// cout << "Vaishnavi\n Srivastava\n";
+// cout << "Ayukt\n Divyansh\n";
  
 
 // //Interger
-int age=18;
+// int age=18;
 // cout << age << endl ;
 // // To check how many bytes, will it takes.
 // cout << sizeof(age) << endl ;
